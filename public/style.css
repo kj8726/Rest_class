@@ -1,0 +1,13 @@
+h1{
+    background-color: red;
+}
+.posts{
+    background-color: pink;
+}
+.content{
+    background-color: greenyellow;
+}
+.user{
+    font-style: italic;
+    background-color: skyblue;
+}
